@@ -19,8 +19,6 @@ Once the code is compiled, you can deploy the contract by clicking on the "Deplo
 
 Once the contract is deployed. Finally, click on the "transact" button to execute the function and retrieve the transaciton details.
 
-## Authors
-
 
 ## License
 
