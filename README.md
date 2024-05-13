@@ -1,4 +1,4 @@
-# Hello World
+# MyToken
 
 This Solidity program is a simple "MyToken" program that demonstrates the basic syntax and functionality of adding and reducing a given ammount of token during a transaction in the Solidity programming language.
 
